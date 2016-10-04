@@ -62,6 +62,10 @@ button{
 
 }
 
+#random{
+  width: 125px;
+}
+
 div  {
 	display: block;
 }
